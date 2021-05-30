@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://imqiju-github-io.pages.dev</id>
+    <id>https://qijv.xyz</id>
     <title>qijv的空间</title>
-    <updated>2021-05-30T03:22:42.028Z</updated>
+    <updated>2021-05-30T05:07:15.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://imqiju-github-io.pages.dev"/>
-    <link rel="self" href="https://imqiju-github-io.pages.dev/atom.xml"/>
+    <link rel="alternate" href="https://qijv.xyz"/>
+    <link rel="self" href="https://qijv.xyz/atom.xml"/>
     <subtitle>把我弄哭的，是风的声音</subtitle>
-    <logo>https://imqiju-github-io.pages.dev/images/avatar.png</logo>
-    <icon>https://imqiju-github-io.pages.dev/favicon.ico</icon>
+    <logo>https://qijv.xyz/images/avatar.png</logo>
+    <icon>https://qijv.xyz/favicon.ico</icon>
     <rights>All rights reserved 2021, qijv的空间</rights>
 </feed>
